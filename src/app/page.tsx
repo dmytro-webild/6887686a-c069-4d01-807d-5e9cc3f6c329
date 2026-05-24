@@ -60,11 +60,11 @@ export default function LandingPage() {
       description="Experience the authentic flavors of Thipsamai, the home of Thailand's most iconic stir-fried noodles."
       leftCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/restaurant-private-room-with-table-14-persons-wooden-ceiling-brick-walls-fireplace_140725-8452.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/restaurant-private-room-with-table-14-persons-wooden-ceiling-brick-walls-fireplace_140725-8452.jpg?_wi=1",
           imageAlt: "Authentic Pad Thai",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cook-folding-vegetables-frying-pan_23-2148253440.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cook-folding-vegetables-frying-pan_23-2148253440.jpg?_wi=1",
           imageAlt: "Wok cooking",
         },
         {
@@ -250,7 +250,7 @@ export default function LandingPage() {
           title: "Ancestral Recipes",
           subtitle: "Secret methods",
           description: "Our sauce recipes are carefully guarded family secrets.",
-          imageSrc: "http://img.b2bpic.net/free-photo/restaurant-private-room-with-table-14-persons-wooden-ceiling-brick-walls-fireplace_140725-8452.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/restaurant-private-room-with-table-14-persons-wooden-ceiling-brick-walls-fireplace_140725-8452.jpg?_wi=2",
           imageAlt: "interior of traditional thai place",
         },
         {
@@ -258,7 +258,7 @@ export default function LandingPage() {
           title: "Traditional Wok",
           subtitle: "Iron technique",
           description: "High-heat cooking creates the smoky flavor of authentic wok noodles.",
-          imageSrc: "http://img.b2bpic.net/free-photo/cook-folding-vegetables-frying-pan_23-2148253440.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cook-folding-vegetables-frying-pan_23-2148253440.jpg?_wi=2",
           imageAlt: "interior of traditional thai place",
         },
       ]}
